@@ -23,13 +23,12 @@ This project demonstrates strong fundamentals in front-end web development, sema
 
 Project Structure
 IT-Company-Website/
-├── index.html
-├── about.html
-├── services.html
-├── careers.html
-├── contact.html
-└── css/
-    └── style.css
+1.index.html
+2. about.html
+3.services.html
+4.careers.html
+5.contact.html
+6.style.css
 #Purpose
 The purpose of this project is to practice front-end development skills and build a real-world corporate IT website layout that aligns with industry standards. It is suitable for showcasing in portfolios, GitHub repositories, and entry-level IT job applications.
 
