@@ -22,7 +22,7 @@ This project demonstrates strong fundamentals in front-end web development, sema
 - Media Queries
 
 Project Structure
-IT-Company-Website/
+IT-Company-Website
 1.index.html
 2. about.html
 3.services.html
