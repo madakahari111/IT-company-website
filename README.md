@@ -40,4 +40,3 @@ Open the index.html file in any modern web browser or run the project using Live
 - Improve UI with animations and transitions
 - Integrate backend for contact form functionality
 
-© 2026
